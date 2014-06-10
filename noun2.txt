@@ -1,0 +1,15 @@
+bear
+bus
+car
+truck
+house
+couch
+bath tub 
+sofa
+table
+person
+human
+dog
+cat
+tiger
+lion
